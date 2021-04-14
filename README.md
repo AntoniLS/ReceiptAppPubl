@@ -1,9 +1,9 @@
 # ReceiptApp Project
 
-**Overview:**
+**Overview:**<br>
 Application created for need of having storage for all of receipts, that are so easy to lose!
 
-**Technologies used:**
+**Technologies used:**<br>
 UIKit (Programmatic UI), VisionKit, Core Data.
 
 **Photos:**
